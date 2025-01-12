@@ -10,9 +10,5 @@ public class Arithmetic {
         System.out.println("Multiplication: " + (a * b)); // 30
         System.out.println("Division: " + (a / b)); // 3
         System.out.println("Modulus: " + (a % b)); // 1
-
-
-        Arithmetic obj = new Arithmetic();
-
     }
 }
